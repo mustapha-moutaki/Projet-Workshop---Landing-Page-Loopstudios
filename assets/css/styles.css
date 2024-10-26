@@ -233,7 +233,6 @@ background-size: cover;
       background-size: cover;
     }
   }
-  
   @media screen and (min-width: 992px) {
     .header {
       /* Indice 36 : Modifiez le remplissage avec --margin-xlarge et --margin-large pour les écrans plus larges. */
