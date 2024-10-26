@@ -227,8 +227,8 @@ background-size: cover;
   @media screen and (min-width: 992px) {
     .header {
       /* Indice 34 : Changez le fond pour les écrans plus larges avec une autre image. Utilisez background avec une nouvelle URL. */
-      
-      background-image:linear-gradient(to right , rgba(128, 0, 128, 0.274), rgba(128, 0, 128, 0.574), url(/assets/images/desktop/image-grid.jpg));
+      background-image: linear-gradient(to right, rgba(128, 0, 128, 0.274), rgba(128, 0, 128, 0.574)), url(/assets/images/desktop/image-hero.jpg);
+
       /* Indice 35 : Assurez-vous que l'image couvre le conteneur. */
       background-size: cover;
     }
